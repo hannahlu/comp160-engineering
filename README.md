@@ -7,11 +7,8 @@ Developing games to meet the many varying cognitive, physical, and visual needs 
 ### Case Studies
 1.	AudioQuake:
 Quake [4] is one of the first FPS mainstream games to be adapted to suit the visually impaired, in the form of AudioQuake, which uses an auditory interface [5]. The creators were keen to not only enable basic game play, but ensure blind users could participate online and in the building of their own level maps.
-
 Adapting Quake into an accessible game for the visually impaired involved several stages of development, beginning with the low-level requirements necessary to implement an auditory interface. Audio needed to be improved to create more realistic cues for the visually impaired, such as indicating room size using echoes.
-
 AudioQuake is part of the AGRIP project [6] which aim for games, to not only playable by the disabled, but that enables them to play evenly matched with or against able-bodied players, create their own map levels and adjust game settings. AudioQuake was built with LDL (Level Description Language), an XML programming language designed specifically to enable developers to describe 3D spaces and for visually impaired players to be able to create 3D levels.
-
 A vital part of the AGRIP Project is community contribution, and particularly disabled-user’s feedback. During development, AudioQuake was regularly play-tested at conventions, such as Sight Village [] and conversations between users on the mailing list were encouraged for greater insight into the games effectiveness.
 
 http://agrip.org.uk/

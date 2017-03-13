@@ -17,7 +17,7 @@ A vital part of the AGRIP Project is community contribution, and particularly di
 
 *	A Walk in the Park: [9]
 
-*	Case Three: 
+* ShadowRine: [11]
 
 ### Application of Accessibility in Mainstream Games
 In the 1980s computer software applications first started to be adapted for the disabled. Nowadays most web and office software is accessible for the visually impaired, however, mainstream video games are overwhelming inaccessible []. 
@@ -32,6 +32,7 @@ In the 1980s computer software applications first started to be adapted for the 
 7.	E. Gómez-Martínez and A. Fernández-Díaz, “Embedded Systems for People with Special Needs: Insights from a Real Case.”
 8.	H.-J. Park and S.-B. Kim, “Guidelines of Serious Game Accessibility for the Disabled,” in 2013 International Conference on Information Science and Applications (ICISA), 2013, pp. 1–3.
 9. U. Wilhelmsson, H. Engstrom, J. Brusk and P. A. Ostblad, "Accessible Game Culture Using Inclusive Game Design - Participating in a Visual Culture That You Cannot See," 2015 7th International Conference on Games and Virtual Worlds for Serious Applications (VS-Games), Skovde, 2015, pp. 1-8.
+10. M. Matsuo, T. Miura, M. Sakajiri, J. Onishi and T. Ono, "ShadowRine: Accessible game for blind users, and accessible action RPG for visually impaired gamers," 2016 IEEE International Conference on Systems, Man, and Cybernetics (SMC), Budapest, 2016, pp. 002826-002827.
 
 ### Obstacles	
 1.	Time pressures in gaming industry
@@ -73,6 +74,8 @@ In the 1980s computer software applications first started to be adapted for the 
 [9] J. B. Marshall, G. Tyson, J. Llanos, R. M. Sanchez and F. B. Marshall, "Serious 3D gaming research for the vision impaired," 2015 17th International Conference on E-health Networking, Application & Services (HealthCom), Boston, MA, 2015, pp. 468-471.
 
 [10] S. T. Frezza, “Issues in student valuing of software engineering best practices,” in 2016 IEEE Frontiers in Education Conference (FIE), 2016, pp. 1–4.
+
+[11] M. Matsuo, T. Miura, M. Sakajiri, J. Onishi and T. Ono, "ShadowRine: Accessible game for blind users, and accessible action RPG for visually impaired gamers," 2016 IEEE International Conference on Systems, Man, and Cybernetics (SMC), Budapest, 2016, pp. 002826-002827.
 
 ##### Software Engineering:
 

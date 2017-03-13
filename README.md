@@ -31,6 +31,7 @@ In the 1980s computer software applications first started to be adapted for the 
 6.	C. G. Bernardo, A. Mori, T. R. C. Orlandi, and C. G. Duque, “Multimodality by electronic games as assistive technology for visual disabilities,” in 2016 1st International Conference on Technology and Innovation in Sports, Health and Wellbeing (TISHW), 2016, pp. 1–8.
 7.	E. Gómez-Martínez and A. Fernández-Díaz, “Embedded Systems for People with Special Needs: Insights from a Real Case.”
 8.	H.-J. Park and S.-B. Kim, “Guidelines of Serious Game Accessibility for the Disabled,” in 2013 International Conference on Information Science and Applications (ICISA), 2013, pp. 1–3.
+9. U. Wilhelmsson, H. Engstrom, J. Brusk and P. A. Ostblad, "Accessible Game Culture Using Inclusive Game Design - Participating in a Visual Culture That You Cannot See," 2015 7th International Conference on Games and Virtual Worlds for Serious Applications (VS-Games), Skovde, 2015, pp. 1-8.
 
 ### Obstacles	
 1.	Time pressures in gaming industry

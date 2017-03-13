@@ -54,7 +54,15 @@ In the 1980s computer software applications first started to be adapted for the 
 9.	Introduce and implement an industry standard of guidelines for accessible gaming for the visually impaired.
 ### Conclusion 
 
+### References
 
+[4] id Software 1996, Quake, video game, Linux, GT Interactive, New York.
+
+[5] Atkinson, M.T. et al, 2006. "Making the mainstream accessible: redefining the game." IN: Proceedings, Sandbox Symposium 2006, ACM SIGGRAPH Symposium on Videogames, Boston, Massachusetts, July 30-31, pp. 21-28
+
+[6] Atkinson, M.T. and Gucukoglu, S. (2003 - 2012). “AGRIP Project”. AGRIP Project [Online]. Available: http://agrip.org.uk. [Accessed: March, 12, 2017].
+
+[7] Atkinson, M.T. and MACHIN, C.H.C., 2009. "Proof-of-concept 3D level creation tool for blind gamers." California State University, Northridge Center on Disabilities' 24th Annual International Technology and Persons with Disabilities Conference (CSUN 2009), 16-21 March, Los Angeles, CA
 
 ##### Software Engineering:
 

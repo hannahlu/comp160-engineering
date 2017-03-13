@@ -2,7 +2,7 @@
 ## Evidence-Based Practice for Designing Accessible Games: How Can Mainstream Games Accommodate for the Visually Impaired?
 
 ### Introduction:
-Developing games to meet the many varying cognitive, physical, and visual needs of the population is a complicated and often expensive task. Whilst other software, such as office and web applications, have been adapted successfully for the visually impaired, accessibility in the gaming industry is comparatively poor. The reliance of mainstream games on impressive visuals makes adaptation for the visually impaired far more complex than other applications. 
+Developing games to meet the many varying cognitive, physical, and visual needs of the population is a complicated and often expensive task. Whilst other software, such as office and web applications, have been adapted successfully for the visually impaired, accessibility in the gaming industry is comparatively poor. The reliance of mainstream games on impressive visuals makes adaptation for the visually impaired far more complex.
 
 However, several creative technologies and strategies have been designed to improve games for the visually impaired, using music to signify transitions \cite{Lotto}, echoes to describe 3D spaces \cite{5}, specially designed gaming devices \cite{Ohtsuka}, and the conversion of images into sounds \cite{Marshall}. 
 

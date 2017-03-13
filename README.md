@@ -2,11 +2,11 @@
 ## Evidence-Based Practice for Designing Accessible Games: How Can Mainstream Games Accommodate for the Visually Impaired?
 
 ### Introduction:
-Developing games to meet the many varying cognitive, physical, and visual needs of the population is a complicated and often expensive task. Whilst other software, such as office computer and web applications, have been adapted successfully for the visually impaired, accessibility in the gaming industry is comparatively poor. The reliance of mainstream games on impressive visuals makes adaptation for the visually impaired far more complex than other applications. 
+Developing games to meet the many varying cognitive, physical, and visual needs of the population is a complicated and often expensive task. Whilst other software, such as office and web applications, have been adapted successfully for the visually impaired, accessibility in the gaming industry is comparatively poor. The reliance of mainstream games on impressive visuals makes adaptation for the visually impaired far more complex than other applications. 
 
 However, several creative technologies and strategies have been designed to improve games for the visually impaired, using music to signify transitions \cite{1}, echoes to describe 3D spaces \cite{5}, specially designed gaming devices \cite{2} \cite{8}, and the conversion of images into sounds \cite{9}. 
 
-Within software engineering, developers often face tight deadlines which may prevent accessibility from being prioritized in the engineering of games \cite{3} \cite{10}. This paper aims to explore how mainstream games can learn from software designed specifically for the visually impaired and to highlight obstacles facing the development of accessible games.
+Within software engineering, developers often face tight deadlines which may prevent accessibility from being prioritized in the engineering of games \cite{3} \cite{10}. This paper aims to explore obstacles facing the development of accessible games and how mainstream games can learn from software designed specifically for the visually impaired.
 
 ### Case Studies
 * AudioQuake:
@@ -20,7 +20,7 @@ A vital part of the AGRIP Project is community contribution, and particularly di
 * ShadowRine: [11]
 
 ### Application of Accessibility in Mainstream Games
-In the 1980s computer software applications first started to be adapted for the disabled. Nowadays most web and office software is accessible for the visually impaired, however, mainstream video games are overwhelming inaccessible []. 
+In the 1980s computer software applications first started to be adapted for the disabled. Nowadays most web and office software is accessible for the visually impaired, however, mainstream video games are overwhelming inaccessible [video game accessibilty]. 
 
 ### PAPERS TO FOCUS ON NEXT:
 1.	R. G. De Branco, M. I. Cagnin, and D. M. B. Paiva, “AccTrace: Accessibility in phases of requirements engineering, design, and coding software,” in Proceedings - 14th International Conference on Computational Science and Its Applications, ICCSA 2014, 2014, pp. 225–228.

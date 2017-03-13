@@ -6,7 +6,7 @@ Developing games to meet the many varying cognitive, physical, and visual needs 
 
 However, several creative technologies and strategies have been designed to improve games for the visually impaired, using music to signify transitions \cite{Lotto}, echoes to describe 3D spaces \cite{5}, specially designed gaming devices \cite{Ohtsuka}, and the conversion of images into sounds \cite{Marshall}. 
 
-Within software engineering, developers often face tight deadlines which may prevent accessibility from being prioritized in the engineering of games \cite{softwaredevelopers} \cite{Issues in student valuing of software engineering best practices}. This paper aims to explore how mainstream games can learn from software designed specifically for the visually impaired and to highlight obstacles facing the development of accessible games.
+Within software engineering, developers often face tight deadlines which may prevent accessibility from being prioritized in the engineering of games \cite{3} \cite{Issues in student valuing of software engineering best practices}. This paper aims to explore how mainstream games can learn from software designed specifically for the visually impaired and to highlight obstacles facing the development of accessible games.
 
 ### Case Studies
 * AudioQuake:
@@ -22,13 +22,14 @@ A vital part of the AGRIP Project is community contribution, and particularly di
 In the 1980s computer software applications first started to be adapted for the disabled. Nowadays most web and office software is accessible for the visually impaired, however, mainstream video games are overwhelming inaccessible []. 
 
 ### PAPERS TO FOCUS ON NEXT:
-1.	AccTrace: Accessibility in Phases of Requirements Engineering, Design and Coding Software
-2.	Game Not Over: Accessibility Issues in Video Games Kevin
-3.	Issues in student valuing of software engineering best practices
-4.	Embedded Systems for People with Special Needs: Insights from a Real Case
-5.	Disability-Aware Software Engineering for Improved System Accessibility
-6.	Guidelines of Serious Game Accessibility for the Disabled
-7.
+1.	R. G. De Branco, M. I. Cagnin, and D. M. B. Paiva, “AccTrace: Accessibility in phases of requirements engineering, design, and coding software,” in Proceedings - 14th International Conference on Computational Science and Its Applications, ICCSA 2014, 2014, pp. 225–228.
+2.	K. Bierre, J. Chetwynd, B. Ellis, D. M. Hinn, S. Ludi, and T. Westin, “Game Not Over: Accessibility Issues in Video Games.”
+3.	S. T. Frezza, “Issues in student valuing of software engineering best practices,” in 2016 IEEE Frontiers in Education Conference (FIE), 2016, pp. 1–4.
+4.	J. T. Nganji and S. H. Nggada, “Disability-aware software engineering for improved system accessibility and usability,” Int. J. Softw. Eng. its Appl., 2011.
+5.	Burgstahler. S, “Designing Software that is Accessible to Individuals with Disabilities,” Univ. Washington., 2014.
+6.	C. G. Bernardo, A. Mori, T. R. C. Orlandi, and C. G. Duque, “Multimodality by electronic games as assistive technology for visual disabilities,” in 2016 1st International Conference on Technology and Innovation in Sports, Health and Wellbeing (TISHW), 2016, pp. 1–8.
+7.	E. Gómez-Martínez and A. Fernández-Díaz, “Embedded Systems for People with Special Needs: Insights from a Real Case.”
+8.	H.-J. Park and S.-B. Kim, “Guidelines of Serious Game Accessibility for the Disabled,” in 2013 International Conference on Information Science and Applications (ICISA), 2013, pp. 1–3.
 
 ### Obstacles	
 1.	Time pressures in gaming industry
@@ -50,6 +51,8 @@ In the 1980s computer software applications first started to be adapted for the 
 ### Conclusion 
 
 ### References
+
+[3] B. Stroustrup, “What should we teach new software developers? Why?,” Commun. ACM, vol. 53, no. 1, p. 40, Jan. 2010.
 
 [4] id Software 1996, Quake, video game, Linux, GT Interactive, New York.
 

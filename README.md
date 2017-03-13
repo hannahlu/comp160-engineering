@@ -15,11 +15,6 @@ Adapting Quake into an accessible game for the visually impaired involved severa
 AudioQuake is part of the AGRIP project [6] which aim for games, to not only playable by the disabled, but that enables them to play evenly matched with or against able-bodied players, create their own map levels and adjust game settings. AudioQuake was built with LDL (Level Description Language), an XML programming language designed specifically to enable developers to describe 3D spaces and for visually impaired players to be able to create 3D levels.
 A vital part of the AGRIP Project is community contribution, and particularly disabled-user’s feedback. During development, AudioQuake was regularly play-tested at conventions, such as Sight Village [] and conversations between users on the mailing list were encouraged for greater insight into the games effectiveness.
 
-http://agrip.org.uk/
-http://matatk.agrip.org.uk/
-http://agrip.org.uk/ldl/tutorial/ldl.txt
-The project was started by Matthew Tylee Atkinson and Sabahattin Gucukoglu.
-
 *	Case Two:
 *	Case Three: 
 

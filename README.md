@@ -4,9 +4,9 @@
 ### Introduction:
 Developing games to meet the many varying cognitive, physical, and visual needs of the population is a complicated and often expensive task. Whilst other software, such as office computer and web applications, have been adapted successfully for the visually impaired, accessibility in the gaming industry is comparatively poor. The reliance of mainstream games on impressive visuals makes adaptation for the visually impaired far more complex than other applications. 
 
-However, several creative technologies and strategies have been designed to improve games for the visually impaired, using music to signify transitions \cite{Lotto}, echoes to describe 3D spaces \cite{5}, specially designed gaming devices \cite{Ohtsuka}, and the conversion of images into sounds \cite{Marshall}. 
+However, several creative technologies and strategies have been designed to improve games for the visually impaired, using music to signify transitions \cite{1}, echoes to describe 3D spaces \cite{5}, specially designed gaming devices \cite{2} \cite{8}, and the conversion of images into sounds \cite{9}. 
 
-Within software engineering, developers often face tight deadlines which may prevent accessibility from being prioritized in the engineering of games \cite{3} \cite{Issues in student valuing of software engineering best practices}. This paper aims to explore how mainstream games can learn from software designed specifically for the visually impaired and to highlight obstacles facing the development of accessible games.
+Within software engineering, developers often face tight deadlines which may prevent accessibility from being prioritized in the engineering of games \cite{3} \cite{10}. This paper aims to explore how mainstream games can learn from software designed specifically for the visually impaired and to highlight obstacles facing the development of accessible games.
 
 ### Case Studies
 * AudioQuake:
@@ -15,7 +15,8 @@ Adapting Quake into an accessible game for the visually impaired involved severa
 AudioQuake is part of the AGRIP project [6] which aim for games, to not only playable by the disabled, but that enables them to play evenly matched with or against able-bodied players, create their own map levels and adjust game settings. AudioQuake was built with LDL (Level Description Language), an XML programming language designed specifically to enable developers to describe 3D spaces and for visually impaired players to be able to create 3D levels.
 A vital part of the AGRIP Project is community contribution, and particularly disabled-user’s feedback. During development, AudioQuake was regularly play-tested at conventions, such as Sight Village [] and conversations between users on the mailing list were encouraged for greater insight into the games effectiveness.
 
-*	Case Two:
+*	A Walk in the Park: [9]
+
 *	Case Three: 
 
 ### Application of Accessibility in Mainstream Games
@@ -52,6 +53,10 @@ In the 1980s computer software applications first started to be adapted for the 
 
 ### References
 
+[1] P. A. d. Oliveira, E. P. Lotto, A. G. D. Correa, L. G. G. Taboada, L. C. P. Costa and R. D. Lopes, "Virtual Stage: An Immersive Musical Game for People with Visual Impairment," 2015 14th Brazilian Symposium on Computer Games and Digital Entertainment (SBGames), Piaui, 2015, pp. 135-141.
+
+[2] S. Ohtsuka, N. Sasaki, S. Hasegawa and T. Harakawa, "A New Game Device Using Body-Braille for Visually Impaired People," 2007 First IEEE International Workshop on Digital Game and Intelligent Toy Enhanced Learning (DIGITEL'07), Jhongli City, 2007, pp. 197-199.
+
 [3] B. Stroustrup, “What should we teach new software developers? Why?,” Commun. ACM, vol. 53, no. 1, p. 40, Jan. 2010.
 
 [4] id Software 1996, Quake, video game, Linux, GT Interactive, New York.
@@ -61,6 +66,12 @@ In the 1980s computer software applications first started to be adapted for the 
 [6] Atkinson, M.T. and Gucukoglu, S. (2003 - 2012). “AGRIP Project”. AGRIP Project [Online]. Available: http://agrip.org.uk. [Accessed: March, 12, 2017].
 
 [7] Atkinson, M.T. and MACHIN, C.H.C., 2009. "Proof-of-concept 3D level creation tool for blind gamers." California State University, Northridge Center on Disabilities' 24th Annual International Technology and Persons with Disabilities Conference (CSUN 2009), 16-21 March, Los Angeles, CA
+
+[8] S. Ohtsuka, N. Sasaki and Y. Fukunaga, "A vibration watch using a mobile phone for visually impaired people," The 1st IEEE Global Conference on Consumer Electronics 2012, Tokyo, 2012, pp. 316-317.
+
+[9] J. B. Marshall, G. Tyson, J. Llanos, R. M. Sanchez and F. B. Marshall, "Serious 3D gaming research for the vision impaired," 2015 17th International Conference on E-health Networking, Application & Services (HealthCom), Boston, MA, 2015, pp. 468-471.
+
+[10] S. T. Frezza, “Issues in student valuing of software engineering best practices,” in 2016 IEEE Frontiers in Education Conference (FIE), 2016, pp. 1–4.
 
 ##### Software Engineering:
 

@@ -103,6 +103,8 @@ In the 1980s computer software applications first started to be adapted for the 
 - Testing Software
 - Measure Success: http://cmmiinstitute.com/
 https://www.ibm.com/developerworks/websphere/library/techarticles/0306_perks/perks.html
+### 
+### Traceability NOTES FROM wiki
+Requirements traceability is defined as “the ability to describe and follow the life of a requirement in both a forwards and backwards direction (i.e., from its origins, through its development and specification, to its subsequent deployment and use, and through periods of ongoing refinement and iteration in any of these phases)”.  In the requirements engineering field, traceability is about understanding how high-level requirements – objectives, goals, aims, aspirations, expectations, needs – are transformed into low-level requirements.
 
-For Accessibility:
 

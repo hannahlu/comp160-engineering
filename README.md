@@ -39,7 +39,7 @@ In the 1980's, computer software applications first started to be adapted for th
 8.	H.-J. Park and S.-B. Kim, “Guidelines of Serious Game Accessibility for the Disabled,” in 2013 International Conference on Information Science and Applications (ICISA), 2013, pp. 1–3.
 9. U. Wilhelmsson, H. Engstrom, J. Brusk and P. A. Ostblad, "Accessible Game Culture Using Inclusive Game Design - Participating in a Visual Culture That You Cannot See," 2015 7th International Conference on Games and Virtual Worlds for Serious Applications (VS-Games), Skovde, 2015, pp. 1-8.
 10. M. Matsuo, T. Miura, M. Sakajiri, J. Onishi and T. Ono, "ShadowRine: Accessible game for blind users, and accessible action RPG for visually impaired gamers," 2016 IEEE International Conference on Systems, Man, and Cybernetics (SMC), Budapest, 2016, pp. 002826-002827.
-
+###  User Sensitive Inclusive Design (USID) [15]
 ### Obstacles	
 1.	Time pressures in gaming industry
 2.	Application of accessibility during the development of games, and not only an afterthought
@@ -61,7 +61,6 @@ In the 1980's, computer software applications first started to be adapted for th
 8.	Make use of available software development tools, such as LDL, and research performed for visually impaired games
 9.	Introduce and implement an industry standard of guidelines for accessible gaming for the visually impaired. define a minimum accessibility standard
 10. Allowing users to make modifications to game.
-11. User Sensitive Inclusive Design (USID)
 
 ### Conclusion 
 

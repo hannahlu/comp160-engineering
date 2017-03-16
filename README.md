@@ -57,7 +57,7 @@ In the 1980's, computer software applications first started to be adapted for th
 6.	Not just basic playable, enable evenly-matched play against able-bodied users and the ability to adjust map levels, game settings, personalized characters (through use of audio/voice rather than appearance)
 7.	Games must still be games when adapted. Not just usable, but enjoyable
 8.	Make use of available software development tools, such as LDL, and research performed for visually impaired games
-9.	Introduce and implement an industry standard of guidelines for accessible gaming for the visually impaired.
+9.	Introduce and implement an industry standard of guidelines for accessible gaming for the visually impaired. define a minimum accessibility standard
 10. Allowing users to make modifications to game.
 
 ### Conclusion 

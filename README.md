@@ -8,6 +8,8 @@ However, several creative technologies and strategies have been designed to impr
 
 Within software engineering, developers often face tight deadlines which may prevent accessibility from being prioritized in the engineering of games \cite{3} \cite{10}. This paper aims to explore obstacles facing the development of accessible games and how mainstream games can learn from software designed specifically for the visually impaired.
 
+"vital considerations for improving accessibility and usability are lacking in the software engineering process." [15]
+
 ### Case Studies
 * AudioQuake:
 Quake [4] is one of the first FPS mainstream games to be adapted to suit the visually impaired, in the form of AudioQuake, which uses an auditory interface [5]. The creators were keen to not only enable basic game play, but ensure blind users could participate online and in the building of their own level maps.
@@ -91,6 +93,8 @@ In the 1980's, computer software applications first started to be adapted for th
 [13] D. McPheron, “Video gaming accessibility,” in 2015 Computer Games: AI, Animation, Mobile, Multimedia, Educational and Serious Games (CGAMES), 2015, pp. 107–111.
 
 [14] K. Bierre, J. Chetwynd, B. Ellis, D. M. Hinn, S. Ludi, and T. Westin, “Game Not Over: Accessibility Issues in Video Games.”
+
+[15] J. T. Nganji and S. H. Nggada, “Disability-aware software engineering for improved system accessibility and usability,” Int. J. Softw. Eng. its Appl., 2011.
 
 ##### Software Engineering:
 

@@ -19,6 +19,10 @@ A vital part of the AGRIP Project is community contribution, and particularly di
 
 * ShadowRine: [11]
 
+* AccTrace: Accessibility in Phases of Requirements Engineering, Design and Coding Software:
+
+Although considerable research and proposals for improving Software Engineering for accessibility exsist, developers rarely understand how to code accessible systems. AccTrace [12] is a Case Tool designed to use an onotology, a method for showing a group of concepts and the relationships between them, to propose and define a technical procedure for implementing accessible gaming. AccTrace was also designed to enable tracebility, allowing developers to acertain the origin of certain elements within a systems design. [12]
+
 ### Application of Accessibility in Mainstream Games
 In the 1980s computer software applications first started to be adapted for the disabled. Nowadays most web and office software is accessible for the visually impaired, however, mainstream video games are overwhelming inaccessible [video game accessibilty]. 
 
@@ -76,6 +80,8 @@ In the 1980s computer software applications first started to be adapted for the 
 [10] S. T. Frezza, “Issues in student valuing of software engineering best practices,” in 2016 IEEE Frontiers in Education Conference (FIE), 2016, pp. 1–4.
 
 [11] M. Matsuo, T. Miura, M. Sakajiri, J. Onishi and T. Ono, "ShadowRine: Accessible game for blind users, and accessible action RPG for visually impaired gamers," 2016 IEEE International Conference on Systems, Man, and Cybernetics (SMC), Budapest, 2016, pp. 002826-002827.
+
+[12] R. G. De Branco, M. I. Cagnin, and D. M. B. Paiva, “AccTrace: Accessibility in phases of requirements engineering, design, and coding software,” in Proceedings - 14th International Conference on Computational Science and Its Applications, ICCSA 2014, 2014, pp. 225–228.
 
 ##### Software Engineering:
 

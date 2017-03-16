@@ -24,7 +24,7 @@ A vital part of the AGRIP Project is community contribution, and particularly di
 Although considerable research and proposals for improving Software Engineering for accessibility exist, developers rarely understand how to code accessible systems. AccTrace [12] is a Case Tool designed to use an ontology, a method for showing a group of concepts and the relationships between them, to propose and define a technical procedure for implementing accessible gaming. AccTrace was also designed to enable traceability, allowing developers to ascertain the origin of certain elements within a systems design. [12]
 
 ### Application of Accessibility in Mainstream Games
-In the 1980's, computer software applications first started to be adapted for the disabled. However, mainstream video games remain overwhelming inaccessible [video game accessibilty]. 
+In the 1980's, computer software applications first started to be adapted for the disabled. However, mainstream video games remain overwhelming inaccessible [13]. 
 
 ### PAPERS TO FOCUS ON NEXT:
 1.	R. G. De Branco, M. I. Cagnin, and D. M. B. Paiva, “AccTrace: Accessibility in phases of requirements engineering, design, and coding software,” in Proceedings - 14th International Conference on Computational Science and Its Applications, ICCSA 2014, 2014, pp. 225–228.
@@ -82,6 +82,8 @@ In the 1980's, computer software applications first started to be adapted for th
 [11] M. Matsuo, T. Miura, M. Sakajiri, J. Onishi and T. Ono, "ShadowRine: Accessible game for blind users, and accessible action RPG for visually impaired gamers," 2016 IEEE International Conference on Systems, Man, and Cybernetics (SMC), Budapest, 2016, pp. 002826-002827.
 
 [12] R. G. De Branco, M. I. Cagnin, and D. M. B. Paiva, “AccTrace: Accessibility in phases of requirements engineering, design, and coding software,” in Proceedings - 14th International Conference on Computational Science and Its Applications, ICCSA 2014, 2014, pp. 225–228.
+
+[13] D. McPheron, “Video gaming accessibility,” in 2015 Computer Games: AI, Animation, Mobile, Multimedia, Educational and Serious Games (CGAMES), 2015, pp. 107–111.
 
 ##### Software Engineering:
 

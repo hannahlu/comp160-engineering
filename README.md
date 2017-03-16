@@ -45,7 +45,9 @@ In the 1980's, computer software applications first started to be adapted for th
 4.	The high visual reliance of mainstream games
 5.	Awareness and research of the benefits of gaming for the visually impaired
 6.	Developing techniques to implement evenly-matched games between able and non-able bodied players
+
 ### Recommendations
+
 1.	Further Research 
 2.	Prioritization
 3.	Improving time pressures and training for software developers 
@@ -55,6 +57,8 @@ In the 1980's, computer software applications first started to be adapted for th
 7.	Games must still be games when adapted. Not just usable, but enjoyable
 8.	Make use of available software development tools, such as LDL, and research performed for visually impaired games
 9.	Introduce and implement an industry standard of guidelines for accessible gaming for the visually impaired.
+10. Allowing users to make modifications to game.
+
 ### Conclusion 
 
 ### References

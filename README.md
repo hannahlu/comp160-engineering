@@ -45,6 +45,7 @@ In the 1980's, computer software applications first started to be adapted for th
 4.	The high visual reliance of mainstream games
 5.	Awareness and research of the benefits of gaming for the visually impaired
 6.	Developing techniques to implement evenly-matched games between able and non-able bodied players
+7. Costs: "the efforts of game accessibility must have a realistic financial grounding, otherwise they risk not become implemented in mainstream games." [14]
 
 ### Recommendations
 
@@ -88,6 +89,8 @@ In the 1980's, computer software applications first started to be adapted for th
 [12] R. G. De Branco, M. I. Cagnin, and D. M. B. Paiva, “AccTrace: Accessibility in phases of requirements engineering, design, and coding software,” in Proceedings - 14th International Conference on Computational Science and Its Applications, ICCSA 2014, 2014, pp. 225–228.
 
 [13] D. McPheron, “Video gaming accessibility,” in 2015 Computer Games: AI, Animation, Mobile, Multimedia, Educational and Serious Games (CGAMES), 2015, pp. 107–111.
+
+[14] K. Bierre, J. Chetwynd, B. Ellis, D. M. Hinn, S. Ludi, and T. Westin, “Game Not Over: Accessibility Issues in Video Games.”
 
 ##### Software Engineering:
 

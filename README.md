@@ -28,6 +28,39 @@ In the 1980's, computer software applications first started to be adapted for th
  
 _"vital considerations for improving accessibility and usability are lacking in the software engineering process."_ [15]
 
+### Obstacles to Accessibile Software
+
+1.	Valuing of Best Practices in Software Engineering: in academia, time constraints/pressures, focus on product being delivered asap
+
+2. Valuing of accessibilty in software engineering, and specfically value of gaming for the visually impaired: 
+
+3.	 Finanical and Time Constraints: "the efforts of game accessibility must have a realistic financial grounding, otherwise they risk not become implemented in mainstream games." "to get mainstream games to be accessible to as many as possible we need first to resolve the financial issues, which are related to the time and effort accessibility development takes, and the increased number of sales you get by doing it."[14]
+
+4. Evenly-matched games between able and non-able bodied players
+
+5. Standardised Guidelines for Accessible Games:
+
+### Recommendations
+
+1. Standardised Guidelines
+
+2. User Testing/Feedback for target group
+
+3. Multimodal User Interfaces: Not only to suit visually impaired but diverse range of needs
+
+4. Allowing users to make modifications to game: Not just basic playable, enable evenly-matched play against able-bodied users and the ability to adjust map levels, game settings, personalized characters (through use of audio/voice rather than appearance)
+
+5. Prioritizaton of Accessibility: Teaching of accessible game engineering best practices in higher-education, awarenss of benefits of games for visually impaired.
+
+6. Make use of and develop further available software engineering tools for accessibilty:LDL, AccTrace   
+
+7.	Games must still be games when adapted. Not just usable, but enjoyable
+
+
+### Conclusion 
+
+Application of accessibility during the development of games, and not only an afterthought
+
 ### PAPERS TO FOCUS ON NEXT:
 1.	R. G. De Branco, M. I. Cagnin, and D. M. B. Paiva, “AccTrace: Accessibility in phases of requirements engineering, design, and coding software,” in Proceedings - 14th International Conference on Computational Science and Its Applications, ICCSA 2014, 2014, pp. 225–228.
 2.	K. Bierre, J. Chetwynd, B. Ellis, D. M. Hinn, S. Ludi, and T. Westin, “Game Not Over: Accessibility Issues in Video Games.”
@@ -40,29 +73,6 @@ _"vital considerations for improving accessibility and usability are lacking in 
 9. U. Wilhelmsson, H. Engstrom, J. Brusk and P. A. Ostblad, "Accessible Game Culture Using Inclusive Game Design - Participating in a Visual Culture That You Cannot See," 2015 7th International Conference on Games and Virtual Worlds for Serious Applications (VS-Games), Skovde, 2015, pp. 1-8.
 10. M. Matsuo, T. Miura, M. Sakajiri, J. Onishi and T. Ono, "ShadowRine: Accessible game for blind users, and accessible action RPG for visually impaired gamers," 2016 IEEE International Conference on Systems, Man, and Cybernetics (SMC), Budapest, 2016, pp. 002826-002827.
 ###  User Sensitive Inclusive Design (USID) [15]
-### Obstacles	
-1.	Time pressures in gaming industry
-2.	Application of accessibility during the development of games, and not only an afterthought
-3.	Teaching of accessible game engineering best practices in higher-education
-4.	The high visual reliance of mainstream games
-5.	Awareness and research of the benefits of gaming for the visually impaired
-6.	Developing techniques to implement evenly-matched games between able and non-able bodied players
-7. Costs: "the efforts of game accessibility must have a realistic financial grounding, otherwise they risk not become implemented in mainstream games." "to get mainstream games to be accessible to as many as possible we need first to resolve the financial issues, which are related to the time and effort accessibility development takes, and the increased number of sales you get by doing it."[14]
-
-### Recommendations
-
-1.	Further Research 
-2.	Prioritization
-3.	Improving time pressures and training for software developers 
-4.	More capabilities of Languages such as LDL
-5.	Visually-Impaired User Feedback
-6.	Not just basic playable, enable evenly-matched play against able-bodied users and the ability to adjust map levels, game settings, personalized characters (through use of audio/voice rather than appearance)
-7.	Games must still be games when adapted. Not just usable, but enjoyable
-8.	Make use of available software development tools, such as LDL, and research performed for visually impaired games
-9.	Introduce and implement an industry standard of guidelines for accessible gaming for the visually impaired. define a minimum accessibility standard
-10. Allowing users to make modifications to game.
-
-### Conclusion 
 
 ### References
 

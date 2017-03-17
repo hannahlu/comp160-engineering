@@ -6,9 +6,7 @@ Developing games to meet the many varying cognitive, physical, and visual needs 
 
 However, several creative technologies and strategies have been designed to improve games for the visually impaired, using music to signify transitions \cite{1}, echoes to describe 3D spaces \cite{5}, specially designed gaming devices \cite{2} \cite{8}, and the conversion of images into sounds \cite{9}. 
 
-Within software engineering, developers often face tight deadlines which may prevent accessibility from being prioritized in the engineering of games \cite{3} \cite{10}. This paper aims to explore obstacles facing the development of accessible games and how mainstream games can learn from software designed specifically for the visually impaired.
-
-"vital considerations for improving accessibility and usability are lacking in the software engineering process." [15]
+Within software engineering, developers often face tight deadlines which may prevent accessibility from being prioritized in the engineering of games \cite{3} \cite{10} . This paper aims to explore obstacles facing the development of accessible games and how mainstream games can learn from software designed specifically for the visually impaired.
 
 ### Case Studies
 * AudioQuake:
@@ -25,8 +23,10 @@ A vital part of the AGRIP Project is community contribution, and particularly di
 
 Although considerable research and proposals for improving Software Engineering for accessibility exist, developers rarely understand how to code accessible systems. AccTrace [12] is a Case Tool designed to use an ontology, a method for showing a group of concepts and the relationships between them, to propose and define a technical procedure for implementing accessible gaming. AccTrace was also designed to enable traceability, allowing developers to ascertain the origin of certain elements within a systems design. [12]
 
-### Application of Accessibility in Mainstream Games
+### Software Engineering for Accessibility in Mainstream Games
 In the 1980's, computer software applications first started to be adapted for the disabled. However, mainstream video games remain overwhelming inaccessible [13]. 
+ 
+_"vital considerations for improving accessibility and usability are lacking in the software engineering process."_ [15]
 
 ### PAPERS TO FOCUS ON NEXT:
 1.	R. G. De Branco, M. I. Cagnin, and D. M. B. Paiva, “AccTrace: Accessibility in phases of requirements engineering, design, and coding software,” in Proceedings - 14th International Conference on Computational Science and Its Applications, ICCSA 2014, 2014, pp. 225–228.

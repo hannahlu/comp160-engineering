@@ -23,72 +23,56 @@
 
 \maketitle
 
-\abstract{Please include an abstract of at most 100 words (these do not count towards your word count).}
+\abstract{Mainstream video games are rarely adequately adapted for the visually impaired. In comparison to the greater accessibility of web and office applications, this can be understood by the more complex visual and immersive nature of games. However, game developers have a responsibility to those with disabilities to make their games accessible. This paper explores best practices in software engineering for accessibility, focusing on three existing accessible software case studies; Quake \cite{4}, AccTrace \cite{12} and a Disability-Aware Software Engineering Model \cite{15}.}
 
 \section{Introduction}
 
-{Developing games to meet the many varying cognitive, physical, and visual needs of the population is a complicated and often expensive task. Whilst other software, such as office and web applications,  have been adapted successfully for the visually impaired, accessibility in the gaming industry is comparatively poor.
+{Developing games to meet the many varying cognitive, physical, and visual needs of the population is a complicated and often expensive task. Whilst other software, such as office and web applications, have been adapted successfully for the visually impaired, accessibility in the gaming industry is comparatively poor \cite{13}.
 
-The reliance of mainstream games on impressive visuals makes adaptation for the visually impaired far more complex than other applications. However, several creative technologies and strategies have been designed to improve games for the visually impaired;  using music to signify transitions \cite{1}, echoes to describe 3D spaces \cite{5}, specially designed gaming devices \cite{2} \cite{8}, and the conversion of images into sounds \cite{9}.
+The reliance of mainstream games on impressive visuals makes adaptation for the visually impaired far more complex than other applications. However, several creative technologies have been designed to improve games for the visually impaired; using music to signify transitions \cite{1}, echoes to describe 3D spaces \cite{5}, specially designed gaming devices \cite{2} \cite{8}, and the conversion of images into sounds \cite{9}. This paper aims to explore obstacles facing the development of accessible games and how mainstream games can learn from software designed specifically for the visually impaired.}
 
-Within software engineering, developers often face tight deadlines which may prevent accessibility from being prioritized in the engineering of games \cite{3} \cite{10} . This paper aims to explore obstacles facing the development of accessible games and how mainstream games can learn from software designed specifically for the visually impaired.}
+\section{Case Study: AudioQuake}
 
+Quake \cite{4} is one of the first FPS mainstream games to be adapted to suit the visually impaired. AudioQuake uses an auditory interface \cite{5} and as part of the AGRIP project \cite{6}, which stresses the importance of adapted games not merely being ‘playable’ by those with disabilities, enables visually impaired users to create their own map levels and participate online. 
 
-\section{Case Studies}
+AudioQuake was built with LDL (Level Description Language), an XML programming language designed to enable developers to describe 3D spaces and visually impaired users to create 3D levels. In adapting Quake, audio was enhanced to create more realistic cues for the visually impaired, such as indicating room size using echoes. A vital part of the AGRIP Project is feedback from disabled-users and conversations between users on the mailing list were encouraged for greater insight into the game's effectiveness.
 
-\textbf{AudioQuake:}
- 
-Quake \cite{4} is one of the first FPS mainstream games to be adapted to suit the visually impaired, in the form of AudioQuake, which uses an auditory interface \cite{5}. The creators were keen to not only enable basic game play, but ensure blind users could participate online and in the building of their own level maps. Adapting Quake into an accessible game for the visually impaired involved several stages of development, beginning with designing low-level requirements necessary to implement an auditory interface. Audio needed to be improved to create more realistic cues for the visually impaired, such as indicating room size using echoes. AudioQuake is part of the AGRIP project \cite{6} which aims for games, not only playable by the disabled, but that also allow evenly matched play with or against able-bodied users, the ability to create their own map levels and to adjust game settings. AudioQuake was built with LDL (Level Description Language), an XML programming language designed specifically to enable developers to describe 3D spaces and for visually impaired players to be able to create 3D levels. A vital part of the AGRIP Project is community contribution, particularly feedback from disabled-users. During development, AudioQuake was regularly play-tested at conventions, such as Sight Village, and conversations between users on the mailing list were encouraged for greater insight into the game's effectiveness.
+\section{Case Study: AccTrace}
 
-\textbf{AccTrace:}
+Although considerable research and proposals to improve software engineering for accessibility exist, developers rarely understand how to code accessible software \cite{12} . AccTrace is a case tool designed to use an ontology to propose a system for implementing accessibility. AccTrace was also designed to enable traceability, allowing developers to determine the origin and effects of accessible requirements. The key concepts of the AccTrace tool include; having an accessibility specialist in the development team, specifying the accessibility requirements of the software from the outset, producing UML diagrams based on these and stating the technical implementation for each UML association and requirement \cite{12}.
 
-Although considerable research and proposals for improving Software Engineering for accessibility exist, developers rarely understand how to code accessible systems. AccTrace \cite{12} is a Case Tool designed to use an ontology, a method for showing a group of concepts and the relationships between them, to propose and define a technical procedure for implementing accessible gaming. AccTrace was also designed to enable traceability, allowing developers to ascertain the origin of certain elements within a systems design. \cite{12}
+\section{Case Study: Disability-aware Software Engineering Processing Model}
 
-\textbf{A Walk in the Park:}
+Nganji and Nggada \cite{15} have proposed a software engineering model, capable of adapting for a range of disabilities. Disabled-user personas are created to develop initial accessibility requirements, minimising the need for costly prototype testing. These personas should be developed with input from disability experts and disabled-users. Once the system has been coded and all individual components linked together, disabled-user testing should be performed to find errors and evaluate the effectiveness of the software \cite{15}.
 
-\section{Software Engineering for Accessibility in Mainstream Games}
-In the  1980's, computer software applications first started to be adapted for the disabled. However, mainstream video games remain overwhelming inaccessible \cite{13}. Accessibility is rarely incorporated in game design from the start of the software engineering cycle, instead \textit{`vital considerations for improving accessibility and usability are lacking in the software engineering process."} \cite{15}
+\section{Obstacles to Software Engineering for Accessibility}
 
-\section{Obstacles and Solutions to Accessible Software}
+Minority group such as the visually impaired, are often overlooked, being too small a proportion of the market, to affect the profitability of games \cite{16}. Accessibility is rarely incorporated in game design from the start of the software engineering cycle \textit{`vital considerations for improving accessibility and usability are lacking in the software engineering process"} \cite{15}. Developers are under constant pressure to meet tight deadlines, and may not consider accessibility vital to development \cite{3} \cite{10}. 
 
-1.	Valuing of Best Practices in Software Engineering: in academia, time constraints/pressures, focus on product being delivered asap
+Yet, research suggests engineering for accessibility from the start of development, helps produce stronger games for all users \cite{5}, as found with web applications, \textit{`websites are on average 35\% easier to use for everyone if they comply with accessibility standards [Disability Rights Commission 2004]"} \cite{5}. Benefits can be attributed to the increased personalisation capabilities and robust user interfaces necessary for accessible software. 
 
+Game developers may also benefit from accessibility, \textit{`adding usability to a software development program can provide up to a one hundred-fold return on investment (Bias \& Mayhew, 1994)."} \cite{17} \cite{20}. Engineering for accessibility can highlight problems in development otherwise overlooked and decrease the level of user support required, due to greater user-modification capabilities and stronger user interfaces \cite{17}. Therefore, not only is accessibility a fundamental responsibility of game developers, just as all industries have a responsibility to adapt services and products for the disabled, engineering for accessibility may benefit all users. 
 
-2. \textbf{Undervaluing the Need and Benefits of Engineering for Accessibility:}  
+The costs of implementing accessibility is another obstacle, \textit{`the efforts of game accessibility must have a realistic financial grounding, otherwise they risk not become implemented in mainstream games."} \cite{14}. Whilst the resources necessary for accessible software do introduce further cost, these can be reduced through planning, use of best practices and applying accessibility from the start \cite{17}. 
 
-The games industry is driven by public demand, minority groups such as the visually impaired, are often overlooked, being too small a proportion of the market to affect the profitability of games \cite{16}. Game developers are under constant pressure to keep pace with the continual enhancement of technology; such time-constraints may lead to developers considering accessibility only as an additional enhancement rather than a vital core to game design. 
-Yet, research suggests engineering for accessibility from the start of development, helps produce stronger games for all users {}{}, as has been the case with web applications \textit{`websites are on average 35\% easier to use for everyone if they comply with accessibility standards [Disability Rights Commission 2004]"} \cite{5}. Benefits to all users can be attributed to the increased personalisation capabilities and robust user interfaces necessary for accessible games. 
-Further still, engineering for accessibility benefit game developers and publishers \textit{`adding usability to a software development program can provide up to a one hundred-fold return on investment (Bias \& Mayhew, 1994)."} {cost-justifying}. Such benefits include; highlighting problems in development that otherwise may have been overlooked, decreasing the level of user support required with increased ability for adjustments by users, stronger user interfaces and positive publicity {Cost-Justifying Accessibility}. Therefore, not only is accessibility a fundamental responsibility of game developers, just as all industries have a responsibility to adapt services and products for the disabled, the requirements of engineering for accessibility may benefit all users. 
+\section{Standardised Guidelines for Accessible Games}
 
+Accessible gaming lacks a set of standardised guidelines \cite{18}. Whilst game developers can take inspiration from existing web accessibility guidelines \cite{18}, video games require more complex information to be translated to visually impaired users. A set of guidelines, specifically for accessible games, is of need. This paper outlines a few recommendations for accessible engineering, as follows:
 
-3.	Financial and Time Constraints: 
-The game industry "the efforts of game accessibility must have a realistic financial grounding, otherwise they risk not become implemented in mainstream games." "to get mainstream games to be accessible to as many as possible we need first to resolve the financial issues, which are related to the time and effort accessibility development takes, and the increased number of sales you get by doing it." \cite{14}
-
-4.	Evenly-matched games between able and non-able bodied players
-
-5.	Standardised Guidelines for Accessible Games:
-
-\section{Recommendations}
-
-Multimodality
-
-1.	Standardised Guidelines
-
-2.	User Testing/Feedback for target group
-
-3.	Multimodal User Interfaces: Not only to suit visually impaired but diverse range of needs
-
-4.	Allowing users to make modifications to game: Not just basic playable, enable evenly-matched play against able-bodied users and the ability to adjust map levels, game settings, personalized characters (through use of audio/voice rather than appearance)
-
-5.	Prioritization of Accessibility: Teaching of accessible game engineering best practices in higher-education, awareness of benefits of games for visually impaired.
-
-6.	Make use of and develop further available software engineering tools for accessibility: LDL, AccTrace
-
-7.	Games must still be games when adapted. Not just usable, but enjoyable
+\begin{enumerate}
+\item Game developers should make the main game, rather than a secondary version, accessible, \textit{`separate is not equal"} \cite{17}. When developers are under-pressure, the secondary game will receive less care and the cost of running two separate versions of the software will likely be greater \cite{17}.
+\item A generalised attempt at accessibility is unlikely to be effective \cite{17}. Game developers need a clear understanding of the disabilities they are adapting for when designing accessible software, advice from disability experts should be sought. 
+\item Disabled-user testing should be prioritised throughout the process \textit{`The user is the centre of this design and if the system does not meet their need, it will be irrelevant.} \cite{15}.
+\item An accessibility specialist should be on the development team, responsible for defining and implementing accessibility requirements \cite{12}. However, all members of the team need an understanding of accessibility in relation to their discipline, and have a responsibility towards producing an accessible product \cite{17}.
+\item Games should enable evenly-matched play between both able and non-able bodied users \cite{11}.
+\item User Interfaces should incorporate multimodality, enabling information to be exchanged through different input modalities \cite{16}. Examples for the visually impaired, include; speech recognition, braille devices, gaze and body movements. Enabling greater user-modification of software settings is necessary to suit the varying needs of the visually impaired, and can also benefit non-disabled users \cite{15}.
+\item Accessibility requirements should be incorporated from the outset, making use of existing technologies and tools such as, AccTrace, to simplify the process. \cite{12}
+\item Once adapted, games should still be enjoyable and not merely usable by disabled players \cite{19}.
+\end{enumerate}
 
 \section{Conclusion}
 
-Application of accessibility during the development of games, and not only an afterthought
+Mainstream game developers have a responsibility to the visually impaired to make software accessible \cite{17}. Software engineering for accessibility is most effective when incorporated from the outset of development and in doing so, the robust nature of accessibility requirements, will likely benefit all users \cite{5}, \cite{17}, \cite{20}. There remains need for a set of standardised guidelines for accessible gaming, if accessibility is to become the norm in mainstream games \cite{18}. Potential recommendations are outlined in this paper, including; the presence of an accessibility specialist in development teams, consultation with disability experts, use of multimodal user interfaces and disabled user-testing.
 
 
 \bibliographystyle{ieeetran}
